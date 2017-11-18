@@ -2,3 +2,9 @@
 *.suo
 /Bin
 /Obj
+/External/OxyPlot/OxyPlot/Bin/Release
+/External/OxyPlot/OxyPlot/obj
+/External/OxyPlot/OxyPlot.WindowsForms/Bin/Release
+/External/OxyPlot/OxyPlot.WindowsForms/obj
+/External/Aga.Controls/obj
+/External/Aga.Controls/Bin/Release
