@@ -2,3 +2,6 @@
 *.suo
 /Bin
 /Obj
+External/Aga.Controls/obj/
+External/OxyPlot/OxyPlot.WindowsForms/obj/
+External/OxyPlot/OxyPlot/obj/
