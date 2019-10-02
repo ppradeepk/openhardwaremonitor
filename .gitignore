@@ -2,6 +2,15 @@
 *.suo
 /Bin
 /Obj
+<<<<<<< HEAD
 External/Aga.Controls/obj/
 External/OxyPlot/OxyPlot.WindowsForms/obj/
 External/OxyPlot/OxyPlot/obj/
+=======
+/External/OxyPlot/OxyPlot/Bin/Release
+/External/OxyPlot/OxyPlot/obj
+/External/OxyPlot/OxyPlot.WindowsForms/Bin/Release
+/External/OxyPlot/OxyPlot.WindowsForms/obj
+/External/Aga.Controls/obj
+/External/Aga.Controls/Bin/Release
+>>>>>>> 58e786020984d597e7b60f5d2374e5bbd25323a3
